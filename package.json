@@ -1,0 +1,35 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Robô para criação de vídeos automatizados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adenilson-santos/video-maker.git"
+  },
+  "keywords": [
+    "robô",
+    "video-maker",
+    "automatizado"
+  ],
+  "author": "Adenilson Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adenilson-santos/video-maker/issues"
+  },
+  "homepage": "https://github.com/adenilson-santos/video-maker#readme",
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
