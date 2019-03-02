@@ -1,0 +1,24 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Robô para criação de vídeos automatizados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adenilson-santos/video-maker.git"
+  },
+  "keywords": [
+    "robô",
+    "video-maker",
+    "automatizado"
+  ],
+  "author": "Adenilson Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adenilson-santos/video-maker/issues"
+  },
+  "homepage": "https://github.com/adenilson-santos/video-maker#readme"
+}
